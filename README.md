@@ -1,6 +1,6 @@
 
 
-
+<b>`プ ロ グ ラ マ`</b>
 <div align="center">
   <img align="right" height="150" src="https://imgur.com/QrPnu3W.png" />
 </div>
@@ -11,11 +11,12 @@ Hello! I'm Victor Hugo, 18 years old, from Assis–SP. I graduated from Ernani R
 
 
 </p>
+<br>
 
 ---
 
 ### 🤖 Languages and Technologies
-
+<br>
 <img 
     align="left" 
     alt="HTML"
@@ -49,26 +50,20 @@ Hello! I'm Victor Hugo, 18 years old, from Assis–SP. I graduated from Ernani R
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-<div align="left">
-  <samp>
-    <b>
-      Contact me:
-    </b>
-  </samp>
-  <br>
-  <br>
-  <br>
-  <br>
-
-  [![Gmail](https://img.shields.io/badge/Gmail-755b25?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:kamillymedino2@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-755b25?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/kamyzmedino/?next=%2F)
-  [![Discord](https://img.shields.io/badge/Discord-755b25?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.gg/8kc8HqXVw2)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-755b25?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/kamilly-medino-b72a3b33a/)
+<br>
+<br>
+### 🔗 Contact me:
   
+<div align="left">
+  
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/victorzlk/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:victorabolis08@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com//)
+
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/victorhug0dev/github-readme-stats)
-
-<br/>
-<br/>
-
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/victorhug0dev/victorhug0dev/output/github-contribution-grid-snake.svg">
+</picture>
