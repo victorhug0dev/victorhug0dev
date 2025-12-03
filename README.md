@@ -17,6 +17,7 @@ Hello! I'm Victor Hugo, 18 years old, from Assis–SP. I graduated from Ernani R
 
 ### 🤖 Languages and Technologies
 <br>
+
 <img 
     align="left" 
     alt="HTML"
@@ -41,7 +42,6 @@ Hello! I'm Victor Hugo, 18 years old, from Assis–SP. I graduated from Ernani R
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Python" 
@@ -50,8 +50,10 @@ Hello! I'm Victor Hugo, 18 years old, from Assis–SP. I graduated from Ernani R
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
 <br>
 <br>
+
 ### 🔗 Contact me:
   
 <div align="left">
