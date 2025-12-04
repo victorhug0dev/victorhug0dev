@@ -7,7 +7,7 @@ Rodrigues and I'm currently studying Systems Analysis and Development at<br>
 FEMA. Driven by curiosity, creativity, and a genuine passion for technology.
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/victorhug0dev/github-readme-stats)
 
 <br><br>
 
