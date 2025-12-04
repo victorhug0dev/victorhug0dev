@@ -5,11 +5,8 @@
 Hello! I'm Victor Hugo, 18 years old, from Assis–SP. I graduated from Ernani<br>
 Rodrigues and I'm currently studying Systems Analysis and Development at<br>
 FEMA. Driven by curiosity, creativity, and a genuine passion for technology.
+
 <br>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/victorhug0dev/github-readme-stats)
-
-<br><br>
 
 ---
 
@@ -50,7 +47,7 @@ FEMA. Driven by curiosity, creativity, and a genuine passion for technology.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
 />
 
-<br><br><br>
+<br><br>
 
 ### 🔗 Contact me:
 
